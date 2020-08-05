@@ -1,2 +1,3 @@
-esp8266_test22
-Test
+This code allows to update the ESP8266 from a github commit.
+
+
